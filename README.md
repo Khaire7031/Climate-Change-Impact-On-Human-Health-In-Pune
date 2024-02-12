@@ -6,8 +6,8 @@ This project aims to analyze the effects of climate change on human health in In
 
 ## Contents
 
-# Pune Data
-- [Text to display](https://www.kaggle.com/code/dipakdeshmukh/pune-weather-data/input)
+### Pune Data
+- [Data Link](https://www.kaggle.com/code/dipakdeshmukh/pune-weather-data/input)
 - [Analysis](#analysis)
 - [Visualization](#visualization)
 - [Contributing](#contributing)
