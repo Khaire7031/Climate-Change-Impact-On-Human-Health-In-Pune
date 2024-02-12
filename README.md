@@ -12,7 +12,15 @@ This project aims to analyze the effects of climate change on human health in In
 
 - [Data Analysis](#analysis)
     - uvIndex
-    - DewPointC	HeatIndexC	cloudcover	humidity	precipMM	pressure	tempC	visibility	windspeedKmph
+    - DewPointC
+    - HeatIndexC
+    - cloudcover
+    - humidity
+    - precipMM
+    - pressure
+    - tempC
+    - visibility
+    - windspeedKmph
 - [Visualization](#visualization)
 - [Contributing](#contributing)
 
