@@ -17,7 +17,7 @@ This project aims to analyze the effects of climate change on human health in In
     - `cloudcover`: Cloud Cover (%) 
     - `humidity`: Humidity (%) 
     - `precipMM`: Precipitation (mm)
-    - `pressure`: Atmospheric Pressure (millibars or hPa)
+    - `pressure`: Atmospheric Pressure (millibars)
     - `tempC`: Temperature (°C)
     - `visibility`: Visibility (kilometers)
     - `windspeedKmph`: Wind Speed (kilometers per hour)
