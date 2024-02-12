@@ -21,6 +21,8 @@ This project aims to analyze the effects of climate change on human health in In
     - tempC
     - visibility
     - windspeedKmph
+- [Disease]
+      - [Heat stroke](https://www.google.com/search?q=heatstroke&sca_esv=30cece12f57037db&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiQpKmYjaaEAxVIxDgGHVz0CskQ_AUoAXoECAEQAw&biw=1366&bih=599&dpr=1#imgrc=LqDm6n4oSs39rM)
 - [Visualization](#visualization)
 - [Contributing](#contributing)
 
