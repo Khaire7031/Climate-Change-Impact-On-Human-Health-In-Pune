@@ -22,9 +22,8 @@ This project aims to analyze the effects of climate change on human health in In
     - visibility
     - windspeedKmph
 - [Disease](#analysis)
-  
-      - [Heat stroke](https://www.firstaidpro.com.au/heatstroke-first-aid/)
-      - [Heat stroke](https://www.firstaidpro.com.au/heatstroke-first-aid/)
+    - [Heat stroke](https://www.firstaidpro.com.au/heatstroke-first-aid/)
+    - [Heat stroke](https://www.firstaidpro.com.au/heatstroke-first-aid/)
 - [Visualization](#visualization)
 - [Contributing](#contributing)
 
