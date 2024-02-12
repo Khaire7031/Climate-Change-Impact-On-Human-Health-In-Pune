@@ -11,6 +11,20 @@ This project aims to analyze the effects of climate change on human health in In
 ## Content
 
 - [Data Analysis](#analysis)
+    - `uvIndex`: UV Index (unitless)
+    - `DewPointC`: Dew Point Temperature (°C)
+    - `HeatIndexC`: Heat Index Temperature (°C)
+    - `cloudcover`: Cloud Cover (%) 
+    - `humidity`: Humidity (%) 
+    - `precipMM`: Precipitation (mm)
+    - `pressure`: Atmospheric Pressure (millibars or hPa)
+    - `tempC`: Temperature (°C)
+    - `visibility`: Visibility (kilometers)
+    - `windspeedKmph`: Wind Speed (kilometers per hour)
+    - 
+- [Disease](#analysis)
+    - [Heat stroke](https://www.firstaidpro.com.au/heatstroke-first-aid/)
+    - [Heat stroke](https://www.firstaidpro.com.au/heatstroke-first-aid/)
 - [Visualization](#visualization)
 - [Contributing](#contributing)
 
